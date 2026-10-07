@@ -10,10 +10,10 @@ public class Ejercicio6 {
         return calculoExponente(numero, exponente-1, resultado*numero);
     }
 
-/*   public static void main(String[] args) {
+    public static void main(String[] args) {
         int numero = 6;
         int exponente = 4;
         int resultadoExponente = calculoExponente(numero, exponente, 1);
         System.out.println("el resultado de la potencia de "+numero+" es: "+resultadoExponente);
-    }*/
+    }
 }

@@ -1,3 +1,6 @@
+/*10. Leer n valores enteros, almacenarlos en un arreglo y 
+realizar la suma de los elementos del vector. */
+
 public class Ejercicio10 {
     public static int sumaArreglo(int[] arreglo,int suma){
         if(suma == arreglo.length){
